@@ -6,5 +6,4 @@ class Card {
    protected $number;
    protected $expiry_date;
 
-   
 }

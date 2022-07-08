@@ -7,4 +7,5 @@ class Product {
     protected $brand;
     protected $aniaml_category;
     protected $type_of;
+    
 }

@@ -1,12 +1,7 @@
 <?php
 
-class User extends RegisterdUser 
+class RegisterdUser extends User 
 {
-    
-}
-
-class RegisterdUser {
-   
     protected $date_of_registration;
-
+    protected $discount;
 }

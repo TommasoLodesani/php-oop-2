@@ -1,13 +1,7 @@
 <?php
 
-class Product extends Toy 
+class Toy extends Product 
 {
-    
-}
-
-class Toy {
-   
     protected $dimension;
-
     
 }

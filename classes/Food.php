@@ -1,13 +1,9 @@
 <?php
 
-class Product extends Food 
+class Food extends Product 
 {
-    
-}
-
-class Food {
-   
     protected $date_of_expire;
-
     
 }
+
+
